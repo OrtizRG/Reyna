@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: rgb(0, 0, 0);
+  background: #efeee7;
+  text-align: center;
+}
+
+header {
+  background: #9b10d2;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #eee;
+  text-align: center;
+  background: rgb(208, 193, 231);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+a {
+  color: #9b10d2;
+}
